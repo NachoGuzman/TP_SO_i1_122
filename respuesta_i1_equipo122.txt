@@ -1,3 +1,7 @@
 Ignacio Guzman ALFA
 A) Si, alfa podria verlo sin ningun tipo de problema.
 B) Si, el archivo agregado es visible a los demas colaboradores.
+Augusto Roman BETA
+C)Si
+D)Nos comunicamos por discord.
+E)Por la funcion de projects de github.
